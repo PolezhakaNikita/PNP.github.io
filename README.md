@@ -14,3 +14,4 @@
 :smile:
 :thumbsup:
 :video_game:
+theme: jekyll-theme-architect
