@@ -8,4 +8,3 @@
 #### А это 3-D популярная игра World of tanks игра 
 
 :smile:
-:video-game:
