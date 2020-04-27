@@ -7,4 +7,4 @@
 ![Фото 3-D игры](https://worldoftanks.ru/static/5.53.5_c2cbb4/common/img/wot_artboard.png)
 #### А это 3-D популярная игра World of tanks игра 
 
-:smile:
+😊 :smile:
